@@ -157,8 +157,8 @@ img {
 .btn-bg-one, .side-nav-responsive .dot-menu:hover .circle-inner .circle {
     background-color: #b56952;
 }
-.btn-bg-three, .btn-bg-two, .services-bar-widget .side-bar-categories ul li:hover {
-    background-color: #ffc025;
+.btn-bg-three, .btn btn-primary, .services-bar-widget .side-bar-categories ul li:hover {
+    background-color: #278ef5;
 }
 .main-nav, .nav-two {
     background-color: #fff;
@@ -318,7 +318,7 @@ img {
     margin-left: auto;
 }
 .nav-two nav .navbar-nav .nav-item .active, .nav-two nav .navbar-nav .nav-item .dropdown-menu li a .active, .nav-two nav .navbar-nav .nav-item .dropdown-menu li a.active, .nav-two nav .navbar-nav .nav-item .dropdown-menu li a:focus, .nav-two nav .navbar-nav .nav-item .dropdown-menu li a:hover, .nav-two nav .navbar-nav .nav-item .dropdown-menu li.active, .nav-two nav .navbar-nav .nav-item a.active, .nav-two nav .navbar-nav .nav-item a:focus, .nav-two nav .navbar-nav .nav-item a:hover, .nav-two nav .navbar-nav .nav-item:hover a {
-    color: #ffc025!important;
+    color: #2575ff!important;
 }
 .side-nav-responsive .dot-menu {
     padding: 0 10px;
@@ -564,7 +564,7 @@ img {
 }
 .option-item .menu-icon .menu-icon-one {
     font-size: 35px;
-    color: #ffc025;
+    color: #2271fa;
 }
 .faq-content-bg .faq-accordion .accordion .accordion-title i, .faq-content-bg2 .faq-accordion .accordion .accordion-item .accordion-title i, .option-item .menu-icon .menu-icon-one:hover, .room-card-two .room-card-content h3 a, .service-article .service-facility-content ul li:hover i {
     color: #292323;
@@ -1132,7 +1132,7 @@ img {
     text-align: center;
 }
 .cab_routesrow li a:hover, .contact-form .form-group.checkbox-option p a:hover, .footer-widget .footer-list li a:hover, .services-card:hover h3 a {
-    color: #ffc025;
+    color: #2249e4;
 }
 .services-card i {
     width: 90px;
@@ -1148,12 +1148,12 @@ img {
 }
 .services-card .get-btn {
     display: inline-block;
-    color: #ffc025;
+    color: #2269ec;
     font-weight: 600;
     position: relative;
 }
 .services-card .get-btn::before {
-    background-color: #ffc025;
+    background-color: #2248f2;
     -webkit-transition: .9s;
     transition: .9s;
 }
@@ -1189,7 +1189,7 @@ img {
     margin-bottom: 20px;
 }
 .testimonials-item i, .text-color {
-    color: #fec127!important;
+    color: #2768fe!important;
 }
 .service-side-bar {
     position: sticky;
@@ -1407,7 +1407,7 @@ img {
     position: absolute;
     width: 18px;
     height: 18px;
-    background-color: #ffc025;
+    background-color: #2085f8;
     left: 0;
     top: 5px;
     border-radius: 3px;
@@ -1555,8 +1555,8 @@ img {
 .room-mid ul li span {
     display: inline-block;
     font-size: 10px;
-    background-color: #ffbf23;
-    color: #000;
+    background-color: #3b53ce;
+    color: #f4f1f1;
     padding: 2px 10px 4px;
     line-height: 12px;
     border-radius: 10px;
@@ -1594,9 +1594,9 @@ img {
     width: 1px;
     height: 100%}
 .room-item .room-bottom .book-btn {
-    background-color: #ffc025;
+    background-color: #2b6fe4;
     padding: 6px 18px;
-    color: #111;
+    color: #fdfdfd;
     border-radius: 50px;
 }
 .room-item .room-bottom .book-btn:hover {
